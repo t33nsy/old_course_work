@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/colors">
+        <file alias="circle_color">colors/circ_color.bmp</file>
+        <file alias="fcircle_color">colors/circ_fill_color.bmp</file>
+        <file alias="rect_color">colors/color.bmp</file>
+        <file alias="frect_color">colors/fill_color.bmp</file>
+        <file alias="orn_color">colors/orn_color.bmp</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+</RCC>
